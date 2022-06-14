@@ -2,9 +2,7 @@
 
 ### Introduction
 
-This is the third project at 42 programming school. We had to create a static library that contains `ft_printf` a function that mimics the real printf. The printf function is one of the most known and used in the C language to give an output. It takes a string as an argument, this string may contain some placeholders (like %c for characters or %s for strings) whose original values are passed as arguments. The ft_printf has variable arguments, the only one being mandatory is the string that will be printed, otherwise it depends on how many placeholders are passed in this string. The function's return is the number of characters printed or -1 for error.
-
-To create with a function like this, we had to understand how the variadic functions work.
+This is the third project at 42 programming school. We had to create a static library that contains `ft_printf` a function that mimics the real printf. The printf function is one of the most known and used in the C language to give an output. It takes a string as an argument, this string may contain some placeholders (like %c for characters or %s for strings) whose original values are passed as arguments. The ft_printf has variable arguments, the only one being mandatory is the string that will be printed. To create a function like this, we had to understand how the variadic functions work. The function returns the number of characters printed or -1 for error.
 
 ✨ *Full subject [here](https://drive.google.com/file/d/1Ut8UDWIrN7HXHVPOqItnPsayUe8HsSzD/view?usp=sharing) ✨*
 
