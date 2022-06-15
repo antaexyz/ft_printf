@@ -47,7 +47,7 @@ malloc, free, write, va_start, va_arg, va_copy, va_end
 **1 - Clone this repo**
 
 ```bash
-git https://github.com/antae16/ft_printf.git
+git clone https://github.com/antae16/ft_printf.git
 cd ft_printf
 ```
 
